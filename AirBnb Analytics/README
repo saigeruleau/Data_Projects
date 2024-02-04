@@ -26,8 +26,10 @@
 * Pivot tables: Top 10 most popular neighborhoods, best property size for the top 10 nieghborhoods, average occupancy of listings, average day of the week occupancy, estimated annual revenue for the top 5 neighborhoods with their respective best property size
 
 ### Images
-
-
+<img width="516" alt="Image 1" src="https://github.com/saigeruleau/Data_Projects/assets/158613429/13e53910-7978-4806-ab1d-2c82baed3bb5">
+<img width="869" alt="Image 2" src="https://github.com/saigeruleau/Data_Projects/assets/158613429/ec51a80e-a29a-4a8c-a8f3-371d85ad6ac8">
+<img width="1072" alt="Image 3" src="https://github.com/saigeruleau/Data_Projects/assets/158613429/99dc57cf-b36c-4940-99f9-e8c219b605d8">
+<img width="700" alt="Image 4" src="https://github.com/saigeruleau/Data_Projects/assets/158613429/528b9d6d-9491-4e99-a529-a8821abd27d2">
 
 ### Assumptions
 * Listings with a minimum night stay of more than 7 nights were filtered out of the data. 		
