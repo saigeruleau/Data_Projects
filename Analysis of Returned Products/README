@@ -23,8 +23,7 @@
 * On each visual, users can float their cursor above a certain data point. The tooltip will appear and give specific data for the specific data point. 
 
 ### Images
-
-
+![Dashboard](https://github.com/saigeruleau/Data_Projects/assets/158613429/3f85f5f1-4ac9-4f3d-938e-1f0ff08c5ad9)
 
 ### Assumptions
 * Returns can be measured in a few different ways. In this analysis, return rate as a percentage was mostly used. Return rate is usually the most appropriate measure because it is conditional to the number of sales. Return rate can be misleading when the sales count is low. For example, if an item was purchased twice, and returned once, the item would have a 50% return rate and this can skew data. Count of returns was also used, but only when it was analyzed against count of sales, thus making the absolute number appropriate.
