@@ -1,0 +1,30 @@
+# Restaurant Analysis Dashboard using Tableau
+
+## Overview
+* This is a mock project where I analyzed data for a multinational restaurant aggregator and food delivery company "Zomato". I created an interactive dashboard for exectuives to use and a report that detailed my key findings and recommendations. 
+
+### Questions answered from the analysis 
+
+1. What are the most popular restaurants by total revenue and number of sales?
+2. What cities have the highest total revenue?
+3. Is there a strong correlation between having a high average rating and generating more revenue? 
+4. What are the most popular items and cuisines by revenue?
+5. Is there a strong correlation between having a high average price and generating more revenue?
+6. 
+
+### Key Findings/recommendations
+1. 
+
+### Interactivity of the dashboard
+
+* Users can change the parameters (total revenue or number of sales) that defines if a restaurnat is popular
+* Users can filter cities based upon what range of total revenue they wnat to see using the slide bar. Users can search for specific cities using the search bar
+* Users can switch between most popular items or cuisines by the parameter 
+
+### Images
+![Image]()
+![Image](src/Img/infolight.png )
+![Image](src/Img/infodark.png )
+
+
+[Click here to see live dashboard --> ](https://public.tableau.com/app/profile/saige.ruleau/viz/FinalProjectZomatoSaigeRuleau/ZomatoDashboard)
