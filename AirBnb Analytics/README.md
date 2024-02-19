@@ -39,4 +39,4 @@
 * Only listings with >3 stars were included in the analysis.		
 * Very inexpensive listings(<$100 per night) and very expensive listings (>$2000 per night) were not included in the analysis. 		
 
-[Click here to see project --> ](https://docs.google.com/spreadsheets/d/1Y_m3vb1Jl9VfJRB8rJD3gl-73kd3r_oFPLjjOoitZzM/edit?usp=sharing)
+[Click here to see project](https://docs.google.com/spreadsheets/d/1Y_m3vb1Jl9VfJRB8rJD3gl-73kd3r_oFPLjjOoitZzM/edit?usp=sharing)
