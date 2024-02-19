@@ -16,7 +16,7 @@
 * The best property size ranges from 0 to 2 bedrooms. 1 bedroom is the most popular AirBnb property size in the top 10 Manhattan neighborhoods. I recommend to potential investors to choose a potential property that is 0-2 bedrooms. 
 * Friday was found to have the highest average occupancy of all listings. 
 * The annual estimated revenue for the top 5 neighborhoods and the corresponding most popular property size (based upon number of bedrooms) for each neighborhood was generated. The highest estimated annual revenue is $134,646.48 in the Hells Kitchen neighborhood with 2 bedrooms.
-* For future analysis, investors could calculate the return on investment (ROI) by comparing the annual estiamted revenue and the average price of each property in the top 5 neighborhoods and the corresponding most popular property size. 
+* For future analysis, investors could calculate the return on investment (ROI) by comparing the annual estimatted revenue and the average price of each property in the top 5 neighborhoods and the property's corresponding most popular size. 
 
 ### Project features 
 * Executive summary: key findings from the analysis
