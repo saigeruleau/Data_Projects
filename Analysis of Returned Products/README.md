@@ -29,4 +29,5 @@
 * Returns can be measured in a few different ways. In this analysis, return rate as a percentage was mostly used. Return rate is usually the most appropriate measure because it is conditional to the number of sales. Return rate can be misleading when the sales count is low. For example, if an item was purchased twice, and returned once, the item would have a 50% return rate and this can skew data. Count of returns was also used, but only when it was analyzed against count of sales, thus making the absolute number appropriate.
 
 [Click here to see live dashboard](https://public.tableau.com/app/profile/saige.ruleau/viz/SuperstoreMonitoringReturns/SuperstoreMonitoringReturns)
-[Click here to see the presentation] (https://youtu.be/EsfI_eVJYNg)
+
+[Click here to see the presentation](https://youtu.be/EsfI_eVJYNg)
