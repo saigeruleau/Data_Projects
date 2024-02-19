@@ -33,4 +33,4 @@
 * Null values were excluded from visualizations that needed those values to complete the analysis.
 * When analyzing the cuisines of restaurants, some cuisines were grouped in order to combine similar cuisines. For example, ‘Indian’ cuisine includes ‘Indian, North Indian, South Indian’.
 
-[Click here to see live dashboard --> ](https://public.tableau.com/app/profile/saige.ruleau/viz/FinalProjectZomatoSaigeRuleau/ZomatoDashboard)
+[Click here to see live dashboard](https://public.tableau.com/app/profile/saige.ruleau/viz/FinalProjectZomatoSaigeRuleau/ZomatoDashboard)
