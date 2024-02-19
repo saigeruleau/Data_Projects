@@ -27,7 +27,6 @@
 ### Images
 ![Dashboard](https://github.com/saigeruleau/Data_Projects/assets/158613429/ef1372d8-7f4d-4cc5-8efc-ff616df5a6c1)
 
-
 ### Assumptions
 * Success of a restaurant, cuisine, or food item was defined by having a high total revenue or high number of sales.
 * Data was compiled from 10/4/2017 to 6/26/2020.
